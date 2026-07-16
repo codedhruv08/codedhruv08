@@ -4,8 +4,6 @@
 
 Email Me 👉 ✉️ **dhruvgautam815@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Computer Science
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=codedhruv08&theme=radical&no-frame=false&no-bg=true&margin-w=4)
